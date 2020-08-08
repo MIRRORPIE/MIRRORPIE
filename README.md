@@ -1,6 +1,6 @@
 <!--# Hi there 👋 -->
 
-<h1> ->Hi 👋, I'm Raushan Kumar <-</h1>
+# Hi 👋, I'm Raushan Kumar
 
 
 
