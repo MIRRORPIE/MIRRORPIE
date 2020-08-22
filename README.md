@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Raushan Kumar
 
-<a href="https://mirrorpie.github.io/My-Template/">My Templates</a>
+<a target="_blank" href="https://mirrorpie.github.io/My-Template/">My Templates</a>
 
 
 
